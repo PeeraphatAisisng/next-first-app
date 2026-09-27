@@ -4,7 +4,7 @@ const techStack = [
   { name: "Next.js 16", detail: "App Router" },
   { name: "React 19", detail: "UI Library" },
   { name: "TypeScript", detail: "Type Safety" },
-  { name: "Tailwind CSS 4", detail: "Styling" },
+  { name: "Tailwind CSS", detail: "Styling (v4)" },
 ];
 
 export default function Home() {
